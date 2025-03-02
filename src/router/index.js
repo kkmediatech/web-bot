@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import Router from 'vue-router';
+import Router from 'vue-router'; // Import Vue Router version 3
 import TableComponent from '@/components/TableComponent.vue';
 import DetailsComponent from '@/components/DetailsComponent.vue';
 
