@@ -4,6 +4,7 @@
   "homepage": "https://github.com/kkmediatech/web-bot",
   "private": true,
   "scripts": {
+    "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
